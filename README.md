@@ -1,11 +1,5 @@
 # Tic-Tac-Toe Game with React
 
-- Overview
-- Features
-- Installation
-- Usage
-- Technologies Useded
-
 ## Overview
 This project is a simple implementation of the classic Tic-Tac-Toe game built using React. It showcases the use of React components, state management, and basic CSS for styling.
 
