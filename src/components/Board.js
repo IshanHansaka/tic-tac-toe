@@ -9,9 +9,9 @@ export default function Board() {
   const winner = calculateWinner(squares);
   let status;
   if (winner) {
-    status = "winner is : " + winner; 
-  } else{
-    status = "Next player : " + (xIsNext ? "X": "O");
+    status = "winner is : " + winner;
+  } else {
+    status = "Next player : " + (xIsNext ? "X" : "O");
   }
 
   function handleClick(i) {
@@ -54,7 +54,7 @@ export default function Board() {
 
   return (
     <>
-    <div className="status">{status}</div>
+      <div className="status">{status}</div>
       <div className="board-row">
         <Square value={squares[0]} onSquareClick={() => handleClick(0)} />
         <Square value={squares[1]} onSquareClick={() => handleClick(1)} />
