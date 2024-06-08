@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game with React
 
-To play the live version of the game, visit: [Tic-Tac-Toe Game](https://ishanhansaka.github.io/tic-tac-toe/),
+To play the live version of the game, visit: [Tic-Tac-Toe Game](https://ishanhansaka.github.io/tic-tac-toe/).
 
 - Overview
 - Features
